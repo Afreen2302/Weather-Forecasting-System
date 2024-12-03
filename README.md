@@ -76,4 +76,4 @@ This project presents a **Weather Forecasting System** designed to provide accur
 
 ---
 
-For more details, refer to the **video file** for an overview of the system's design and functionality.
+For more details, refer to the **proteus file** for an overview of the system's design and functionality.
